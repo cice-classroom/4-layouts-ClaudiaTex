@@ -1,8 +1,9 @@
 :root {
-  --base: 0.25rem;
+  --base: 0.5rem;
   --s: var(--base);
   --m: calc(var(--base) * 2);
   --l: calc(var(--base) * 4);
+  --body-width: 40rem;
 
   --body-font: 'Open Sans', sans-serif;
   --title-font: 'Open Sans', sans-serif;
@@ -11,4 +12,6 @@
   --on-primary-color: black;
   --foreground-color: black;
   --background-color: white;
+
+  --shadow: 0 3px 30px 5px hsla(0, 0%, 0%, 0.4);
 }

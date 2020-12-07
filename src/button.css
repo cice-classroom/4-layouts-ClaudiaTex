@@ -7,6 +7,6 @@
 }
 
 .button__primary {
-  color: var(--on-primay-color);
+  color: var(--on-primary-color);
   background-color: var(--primary-color);
 }
