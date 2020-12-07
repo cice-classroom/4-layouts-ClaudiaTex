@@ -1,0 +1,12 @@
+.float-box-section {
+  margin-top: 4rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.box-text-left {
+}
+
+.box-text-right {
+}
