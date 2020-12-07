@@ -16,6 +16,8 @@ body {
   font-family: var(--body-font);
   font-weight: 400;
   line-height: 1.75;
+  background-color: var(--background-color);
+  color: var(--foreground-color);
 }
 
 p {

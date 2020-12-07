@@ -9,4 +9,6 @@
 
   --primary-color: gray;
   --on-primary-color: black;
+  --foreground-color: black;
+  --background-color: white;
 }

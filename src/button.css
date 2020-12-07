@@ -2,6 +2,8 @@
   border-radius: 9999px;
   padding: var(--s) var(--m);
   border: none;
+  color: var(--foreground-color);
+  background-color: var(--background-color);
 }
 
 .button__primary {
