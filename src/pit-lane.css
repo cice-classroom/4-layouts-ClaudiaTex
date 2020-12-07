@@ -1,0 +1,27 @@
+.box {
+  background-color: var(--primary-color);
+}
+
+.box-carousel {
+  background-color: var(--primary-color);
+  width: 4rem;
+  height: 4rem;
+}
+
+.box-grid {
+  background-color: var(--primary-color);
+  width: 6rem;
+  height: 6rem;
+}
+
+.box-grid-lorem {
+  background-color: var(--secondary-color);
+  width: 6rem;
+  height: 6rem;
+}
+
+.box-flex {
+  background-color: var(--primary-color);
+  width: 7rem;
+  height: 7rem;
+}

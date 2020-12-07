@@ -59,9 +59,3 @@ h5 {
 small {
   font-size: 0.75rem;
 }
-
-.box {
-  background-color: var(--primary-color);
-  width: 4rem;
-  height: 4rem;
-}
