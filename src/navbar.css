@@ -28,4 +28,5 @@
 }
 
 .navbar__login {
+  padding: var(--s);
 }
