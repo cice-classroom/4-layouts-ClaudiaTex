@@ -25,3 +25,9 @@
   width: 7rem;
   height: 7rem;
 }
+
+.box-lorem {
+  background-color: var(--primary-color);
+  width: 5rem;
+  height: 5rem;
+}
