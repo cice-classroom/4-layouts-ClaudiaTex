@@ -21,6 +21,10 @@
 }
 
 .navbar__search {
+  border-radius: 9999px;
+  border: none;
+  padding: var(--s);
+  background-color: var(--primary-color);
 }
 
 .navbar__login {
