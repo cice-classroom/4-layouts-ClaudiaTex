@@ -17,6 +17,7 @@
   width: 2rem;
   height: 2rem;
   background-color: var(--primary-color);
+  border-radius: 9999px;
 }
 
 .navbar__search {
