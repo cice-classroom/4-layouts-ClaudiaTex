@@ -30,4 +30,5 @@
   background-color: var(--primary-color);
   width: 5rem;
   height: 5rem;
+  margin: var(--m);
 }

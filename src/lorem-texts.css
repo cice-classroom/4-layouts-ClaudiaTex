@@ -1,17 +1,24 @@
 .first-lorem-text {
   background-color: var(--secondary-color);
+  margin-top: 5rem;
   display: flex;
   flex-direction: column;
   justify-content: center;
+  align-items: center;
   text-align: center;
   width: 100%;
-  height: 500px;
+  height: 30rem;
+}
+
+.first_lorem__text {
+  width: 60%;
+  text-align: center;
 }
 
 .box-row-flex {
   display: flex;
   flex-direction: row;
-  justify-content: space-around;
+  justify-content: space-between;
   margin: var(--l);
 }
 
@@ -23,5 +30,10 @@
   align-items: center;
   text-align: center;
   width: 100%;
-  height: 500px;
+  height: 22rem;
+}
+
+.second_lorem__text {
+  width: 50%;
+  text-align: center;
 }
