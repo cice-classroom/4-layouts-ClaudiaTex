@@ -14,9 +14,7 @@
 .button__lorem {
   color: var(--on-primary-color);
   background-color: var(--primary-color);
-  width: 6rem;
-  height: 2rem;
-  padding: var(--m);
+  font-size: large;
+  padding: var(--m) var(--l);
   margin: var(--l);
-  text-align: center;
 }
