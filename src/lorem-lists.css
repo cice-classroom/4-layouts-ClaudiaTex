@@ -2,12 +2,16 @@
   background-color: var(--secondary-color);
   display: flex;
   justify-content: space-between;
-  height: 15rem;
+  height: 18rem;
+  width: 100%;
 }
 
 .lists {
+  width: 40%;
   display: flex;
-  margin: 2rem;
+  flex-direction: row-reverse;
+  justify-content: space-around;
+  margin: 3rem;
 }
 
 .Lorem-list {
@@ -17,5 +21,4 @@
 
 li {
   list-style-type: disc;
-  margin: 0 2rem 0 2rem;
 }
