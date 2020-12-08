@@ -10,14 +10,14 @@
 
 .box-grid {
   background-color: var(--primary-color);
-  width: 6rem;
-  height: 6rem;
+  width: 100%;
+  height: 100%;
 }
 
 .box-grid-lorem {
   background-color: var(--secondary-color);
-  width: 6rem;
-  height: 6rem;
+  width: 100%;
+  height: 100%;
 }
 
 .box-flex {
