@@ -2,14 +2,14 @@
   padding: var(--s);
   display: flex;
   box-shadow: var(--shadow);
+  width: 100%;
 }
 
 .navbar__wrapper {
   display: flex;
   justify-content: space-between;
   margin: 0 auto;
-  max-width: var(--body-width);
-  width: 100%;
+  width: 75%;
 }
 
 .navbar__logo {
