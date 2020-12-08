@@ -6,4 +6,9 @@
 
 .footer__ {
   display: flex;
+  margin: 0 2rem 0 0;
+}
+
+.footer__p {
+  margin: 0 3rem 0 0;
 }
