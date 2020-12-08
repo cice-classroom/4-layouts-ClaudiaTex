@@ -1,5 +1,5 @@
 .navbar {
-  padding: var(--m);
+  padding: var(--s);
   display: flex;
   box-shadow: var(--shadow);
 }
@@ -7,7 +7,6 @@
 .navbar__wrapper {
   display: flex;
   justify-content: space-between;
-  align-items: center;
   margin: 0 auto;
   max-width: var(--body-width);
   width: 100%;
@@ -23,10 +22,10 @@
 .navbar__search {
   border-radius: 9999px;
   border: none;
-  padding: var(--s);
+  padding: var(--s) var(--m);
   background-color: var(--primary-color);
 }
 
 .navbar__login {
-  padding: var(--s);
+  padding: var(--s) var(--m);
 }
