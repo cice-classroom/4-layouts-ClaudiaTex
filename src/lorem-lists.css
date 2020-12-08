@@ -1,0 +1,14 @@
+.list__section {
+  background-color: var(--secondary-color);
+  display: flex;
+  justify-content: space-between;
+}
+
+.lists {
+  display: flex;
+}
+
+.lorem-list {
+  display: flex;
+  flex-direction: column;
+}
