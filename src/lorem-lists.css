@@ -2,13 +2,20 @@
   background-color: var(--secondary-color);
   display: flex;
   justify-content: space-between;
+  height: 15rem;
 }
 
 .lists {
   display: flex;
+  margin: 2rem;
 }
 
-.lorem-list {
+.Lorem-list {
   display: flex;
   flex-direction: column;
+}
+
+li {
+  list-style-type: disc;
+  margin: 0 2rem 0 2rem;
 }
