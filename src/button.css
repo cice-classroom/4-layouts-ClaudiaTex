@@ -10,3 +10,13 @@
   color: var(--on-primary-color);
   background-color: var(--primary-color);
 }
+
+.button__lorem {
+  color: var(--on-primary-color);
+  background-color: var(--primary-color);
+  width: 6rem;
+  height: 2rem;
+  padding: var(--m);
+  margin: var(--l);
+  text-align: center;
+}

@@ -1,0 +1,27 @@
+.first-lorem-text {
+  background-color: var(--secondary-color);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  width: 100%;
+  height: 500px;
+}
+
+.box-row-flex {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin: var(--l);
+}
+
+.second-lorem-text {
+  margin-top: 4rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  width: 100%;
+  height: 500px;
+}
