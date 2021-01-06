@@ -1,0 +1,35 @@
+.float-box-section {
+  margin: 4rem 0 4rem 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.box-text-left {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  padding: 1rem;
+  width: 50%;
+  align-items: center;
+}
+
+.box-text-right {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: flex-start;
+  text-align: right;
+  padding: 1rem;
+  width: 50%;
+  align-items: center;
+}
+
+.text {
+  margin-left: 1rem;
+}
+
+.text-right {
+  margin-right: 1rem;
+}

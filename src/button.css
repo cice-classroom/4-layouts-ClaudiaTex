@@ -1,0 +1,20 @@
+.button {
+  border-radius: 9999px;
+  padding: var(--s) var(--m);
+  border: none;
+  color: var(--foreground-color);
+  background-color: var(--background-color);
+}
+
+.button__primary {
+  color: var(--on-primary-color);
+  background-color: var(--primary-color);
+}
+
+.button__lorem {
+  color: var(--on-primary-color);
+  background-color: var(--primary-color);
+  font-size: large;
+  padding: var(--m) var(--l);
+  margin: var(--l);
+}

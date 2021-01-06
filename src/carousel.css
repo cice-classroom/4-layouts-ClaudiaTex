@@ -1,0 +1,27 @@
+.carousel {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin: 1rem;
+  padding: 5rem;
+}
+
+.box-icon-left {
+  align-self: center;
+  background-color: var(--primary-color);
+  border-radius: 100px 0 0 100px;
+  width: 2rem;
+  height: 1rem;
+}
+
+.box-icon-right {
+  align-self: center;
+  background-color: var(--primary-color);
+  border-radius: 0 100px 100px 0;
+  width: 2rem;
+  height: 1rem;
+}
+
+.lorem {
+  margin-top: 0.5rem;
+}

@@ -1,0 +1,31 @@
+.navbar {
+  padding: var(--s);
+  display: flex;
+  box-shadow: var(--shadow);
+  width: 100%;
+}
+
+.navbar__wrapper {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 auto;
+  width: 75%;
+}
+
+.navbar__logo {
+  width: 2rem;
+  height: 2rem;
+  background-color: var(--primary-color);
+  border-radius: 9999px;
+}
+
+.navbar__search {
+  border-radius: 9999px;
+  border: none;
+  padding: var(--s) var(--m);
+  background-color: var(--primary-color);
+}
+
+.navbar__login {
+  padding: var(--s) var(--m);
+}

@@ -1,0 +1,24 @@
+.list__section {
+  background-color: var(--secondary-color);
+  display: flex;
+  justify-content: space-between;
+  height: 18rem;
+  width: 100%;
+}
+
+.lists {
+  width: 40%;
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: space-around;
+  margin: 3rem;
+}
+
+.Lorem-list {
+  display: flex;
+  flex-direction: column;
+}
+
+li {
+  list-style-type: disc;
+}
